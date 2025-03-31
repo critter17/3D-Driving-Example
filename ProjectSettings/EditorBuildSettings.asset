@@ -4,5 +4,29 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/TurnTheGameOn/Arcade Racer/_GameTemplate_WindowsStandalone/Scenes/GameTemplate_MainMenu.unity
+    guid: 673ba8da5aa48784b9c0d29cc50117c3
+  - enabled: 1
+    path: Assets/TurnTheGameOn/Arcade Racer/_GameTemplate_WindowsStandalone/Scenes/GameTemplate_VehicleSelectMenu.unity
+    guid: cc3b4505ae738174ab60a9b53a4b0690
+  - enabled: 1
+    path: Assets/TurnTheGameOn/Arcade Racer/_GameTemplate_WindowsStandalone/Scenes/GameTemplate_OpenWorld_RacingCity.unity
+    guid: 5b5b49d02cd56cb4aaec2801a00c60ce
+  - enabled: 1
+    path: Assets/TurnTheGameOn/Arcade Racer/_GameTemplate_WindowsStandalone/Scenes/GameTemplate_RaceDefeat.unity
+    guid: 3970a191e63384d44bb372ea3129802c
+  - enabled: 1
+    path: Assets/TurnTheGameOn/Arcade Racer/_GameTemplate_WindowsStandalone/Scenes/GameTemplate_RaceVictory.unity
+    guid: 54004d9c4ac8c284396de5787c0c5bb9
+  - enabled: 1
+    path: Assets/TurnTheGameOn/Arcade Racer/_GameTemplate_WindowsStandalone/Scenes/GameTemplate_QuickRace_0.unity
+    guid: ba118b550f146274499789482e9cc8fd
+  - enabled: 1
+    path: Assets/TurnTheGameOn/Arcade Racer/_GameTemplate_WindowsStandalone/Scenes/GameTemplate_QuickRace_1.unity
+    guid: b410388fc432dff4397b440a145b1181
+  - enabled: 1
+    path: Assets/TurnTheGameOn/Arcade Racer/_GameTemplate_WindowsStandalone/Scenes/GameTemplate_QuickRace_2.unity
+    guid: efee29f3fb6c52548a2beaba7fee8ebf
   m_configObjects: {}
