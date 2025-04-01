@@ -32,11 +32,11 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - MiniMap
+  - Reflection Probe
+  - Player
+  - Vehicle
+  - Obstacle
   m_SortingLayers:
   - name: Default
     uniqueID: 0
